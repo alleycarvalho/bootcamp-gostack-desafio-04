@@ -23,6 +23,10 @@
 - Criar uma aplicação do zero utilizando [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/), [Webpack Dev Server](https://github.com/webpack/webpack-dev-server) e [ReactJS](https://pt-br.reactjs.org/).
 - Desenvolver uma interface semelhante com a do Facebook utilizando **React**.
 
+## :computer: Resultado do desafio
+
+![Facebook](.github/layout.png)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
